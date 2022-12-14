@@ -1,0 +1,59 @@
+.pre_loading{
+    z-index: 99;
+    width: 100%;
+    min-height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+
+    
+    transition: 15s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    span{
+        margin-top: 1.5rem;
+        font-size: 1.4rem;
+        font-weight: 500;
+        text-align: center;
+        animation: all 1.1s infinite;
+    }
+
+    .efect_loading{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 15.5rem;
+        height: 15.5rem;
+        background-color: #3265EA;
+        border-radius: 100%;
+
+        animation: efect 1.1s infinite;
+
+        img{
+            width: 20px;
+            height: 20px;
+        }
+    }
+    
+    @keyframes efect{
+        0%{
+            
+            box-shadow: 0 0 0 0 #5281f7;
+        }
+        100%{
+            box-shadow: 0 0 0 1.5rem #80a3fd;
+        }
+    }
+
+    @keyframes all {
+        0%{
+            opacity: 0;
+        }
+        100%{
+            opacity: 100;
+        }
+    }
+}
