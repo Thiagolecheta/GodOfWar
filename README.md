@@ -1,7 +1,5 @@
 <h1 align="center"> God Of War LP - Codeboost </h1>
 
-![Desktop - 1](![share-og](https://user-images.githubusercontent.com/40678216/211437977-3f262a69-c955-4b4e-84c5-d2f3fc66dbd6.jpg)
-)
 
 <hr>
 
