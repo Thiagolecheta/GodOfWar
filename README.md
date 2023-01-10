@@ -1,7 +1,6 @@
 <h1 align="center"> God Of War LP - Codeboost </h1>
 
 
-<hr>
 
 ![God of War Ragnarok - 1440](https://user-images.githubusercontent.com/40678216/211438034-f2a4c0c7-7052-4ea6-a4e6-9f6caf353810.jpg)
 
